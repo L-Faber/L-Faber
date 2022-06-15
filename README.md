@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @L-Faber (or-oh Faber)
 - 👀 I’m interested in Physics&Finance
 - 🌱 I’m currently learning .php
-- 💞️ I’m looking to collaborate on Revolut <3
+- 💞️ I’m looking to collaborate on Revolut :heart:
 - 📫 How to reach me? E-mail: <faber.milazzo@gmail.com> or [Telegram :calling:](https://t.me/Faaaber "Best Direct")
 
 <!---
